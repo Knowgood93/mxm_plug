@@ -96,5 +96,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - **Contributors**: If any, list them here.
 
 ---
-
-Feel free to replace `"YourGitHubUsername"` with your actual GitHub username and update the repository name if needed. You can copy this into your `README.md` file and modify it as you see fit. Let me know if you need further tweaks!
